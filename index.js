@@ -8,7 +8,7 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '🔥 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣  𝗕𝗢𝗧🔥'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '🔥𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧🔥'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/dulmukti_id'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6285314948812'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
