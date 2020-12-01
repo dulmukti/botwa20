@@ -1,4 +1,4 @@
-# 👾AR15BOT👾
+# 👾 WA ONLY BOT👾
 BOT WHATSAPP TERMUX ONLY 
 
 ## Features
